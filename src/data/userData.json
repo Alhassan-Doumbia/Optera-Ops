@@ -1,177 +1,113 @@
 [
     {
-        "ops_name": "abouo",
-        "surnames": "audrey",
-        "post": "Téléc.",
-        "score": 85,
-        "success_evo": [
-            {"date": "21-08-24", "success_call": 14},
-            {"date": "22-08-24", "success_call": 16},
-            {"date": "23-08-24", "success_call": 12},
-            {"date": "24-08-24", "success_call": 20},
-            {"date": "25-08-24", "success_call": 25}
-        ],
-        "avg_call_time_evo": [
-            {"date": "21-08-24", "time": 225},
-            {"date": "22-08-24", "time": 230},
-            {"date": "23-08-24", "time": 220},
-            {"date": "24-08-24", "time": 235},
-            {"date": "25-08-24", "time": 230}
-        ],
-        "campaigns": [
-            {
-                "id": 1,
-                "name": "Campaign 1",
-                "designation": "Hearing Aid",
-                "average_duration_per_call": "120",
-                "objective": 100,
-                "evolution": 100,
-                "total_calls": 250,
-                "success_calls": 150,
-                "start_date": "2024-01-01",
-                "end_date": "2024-03-31",
-                "status": "active"
-            }
-        ]
+      "ops_name": "abouo",
+      "surnames": "audrey",
+      "post": "Téléc.",
+      "temps_moyen_par_appel": "3:45",
+      "score": 85,
+      "calls_handled": 150,
+      "success_evo": [
+        {"date": "21-08-24", "success_call": 14},
+        {"date": "22-08-24", "success_call": 16},
+        {"date": "23-08-24", "success_call": 12},
+        {"date": "24-08-24", "success_call": 20},
+        {"date": "25-08-24", "success_call": 25}
+      ],
+      "avg_call_time_evo": [
+        {"date": "21-08-24", "time": 225},
+        {"date": "22-08-24", "time": 230},
+        {"date": "23-08-24", "time": 220},
+        {"date": "24-08-24", "time": 235},
+        {"date": "25-08-24", "time": 230}
+      ]
     },
     {
-        "ops_name": "ecra",
-        "surnames": "alloué marie",
-        "post": "Téléc.",
-        "score": 78,
-        "success_evo": [
-            {"date": "21-08-24", "success_call": 11},
-            {"date": "22-08-24", "success_call": 13},
-            {"date": "23-08-24", "success_call": 9},
-            {"date": "24-08-24", "success_call": 10},
-            {"date": "25-08-24", "success_call": 14}
-        ],
-        "avg_call_time_evo": [
-            {"date": "21-08-24", "time": 250},
-            {"date": "22-08-24", "time": 245},
-            {"date": "23-08-24", "time": 240},
-            {"date": "24-08-24", "time": 255},
-            {"date": "25-08-24", "time": 250}
-        ],
-        "campaigns": [
-            {
-                "id": 2,
-                "name": "Campaign 2",
-                "designation": "Vision Aid",
-                "average_duration_per_call": "120",
-                "objective": 200,
-                "evolution": 120,
-                "total_calls": 300,
-                "success_calls": 120,
-                "start_date": "2024-02-01",
-                "end_date": "2024-05-01",
-                "status": "active"
-            }
-        ]
+      "ops_name": "ecra",
+      "surnames": "alloué marie",
+      "post": "Téléc.",
+      "temps_moyen_par_appel": "4:10",
+      "score": 78,
+      "calls_handled": 130,
+      "success_evo": [
+        {"date": "21-08-24", "success_call": 11},
+        {"date": "22-08-24", "success_call": 13},
+        {"date": "23-08-24", "success_call": 9},
+        {"date": "24-08-24", "success_call": 10},
+        {"date": "25-08-24", "success_call": 14}
+      ],
+      "avg_call_time_evo": [
+        {"date": "21-08-24", "time": 250},
+        {"date": "22-08-24", "time": 245},
+        {"date": "23-08-24", "time": 240},
+        {"date": "24-08-24", "time": 255},
+        {"date": "25-08-24", "time": 250}
+      ]
     },
     {
-        "ops_name": "diakité",
-        "surnames": "binta",
-        "post": "Téléc.",
-        "score": 90,
-        "success_evo": [
-            {"date": "21-08-24", "success_call": 9},
-            {"date": "22-08-24", "success_call": 11},
-            {"date": "23-08-24", "success_call": 7},
-            {"date": "24-08-24", "success_call": 12},
-            {"date": "25-08-24", "success_call": 16}
-        ],
-        "avg_call_time_evo": [
-            {"date": "21-08-24", "time": 320},
-            {"date": "22-08-24", "time": 325},
-            {"date": "23-08-24", "time": 315},
-            {"date": "24-08-24", "time": 310},
-            {"date": "25-08-24", "time": 305}
-        ],
-        "campaigns": [
-            {
-                "id": 3,
-                "name": "Campaign 3",
-                "designation": "Dental Aid",
-                "average_duration_per_call": "150",
-                "objective": 250,
-                "evolution": 80,
-                "total_calls": 400,
-                "success_calls": 180,
-                "start_date": "2024-03-01",
-                "end_date": "2024-06-01",
-                "status": "active"
-            }
-        ]
+      "ops_name": "diakité",
+      "surnames": "binta",
+      "post": "Téléc.",
+      "temps_moyen_par_appel": "5:20",
+      "score": 90,
+      "calls_handled": 170,
+      "success_evo": [
+        {"date": "21-08-24", "success_call": 9},
+        {"date": "22-08-24", "success_call": 11},
+        {"date": "23-08-24", "success_call": 7},
+        {"date": "24-08-24", "success_call": 12},
+        {"date": "25-08-24", "success_call": 16}
+      ],
+      "avg_call_time_evo": [
+        {"date": "21-08-24", "time": 320},
+        {"date": "22-08-24", "time": 325},
+        {"date": "23-08-24", "time": 315},
+        {"date": "24-08-24", "time": 310},
+        {"date": "25-08-24", "time": 305}
+      ]
     },
     {
-        "ops_name": "dénis",
-        "surnames": "raïssa",
-        "post": "Téléc.",
-        "score": 82,
-        "success_evo": [
-            {"date": "21-08-24", "success_call": 10},
-            {"date": "22-08-24", "success_call": 12},
-            {"date": "23-08-24", "success_call": 15},
-            {"date": "24-08-24", "success_call": 8},
-            {"date": "25-08-24", "success_call": 18}
-        ],
-        "avg_call_time_evo": [
-            {"date": "21-08-24", "time": 240},
-            {"date": "22-08-24", "time": 245},
-            {"date": "23-08-24", "time": 235},
-            {"date": "24-08-24", "time": 250},
-            {"date": "25-08-24", "time": 240}
-        ],
-        "campaigns": [
-            {
-                "id": 4,
-                "name": "Campaign 4",
-                "designation": "Orthopedic Aid",
-                "average_duration_per_call": "180",
-                "objective": 300,
-                "evolution": 200,
-                "total_calls": 500,
-                "success_calls": 250,
-                "start_date": "2024-04-01",
-                "end_date": "2024-07-01",
-                "status": "active"
-            }
-        ]
+      "ops_name": "dénis",
+      "surnames": "raïssa",
+      "post": "Téléc.",
+      "temps_moyen_par_appel": "4:00",
+      "score": 82,
+      "calls_handled": 140,
+      "success_evo": [
+        {"date": "21-08-24", "success_call": 10},
+        {"date": "22-08-24", "success_call": 12},
+        {"date": "23-08-24", "success_call": 15},
+        {"date": "24-08-24", "success_call": 8},
+        {"date": "25-08-24", "success_call": 18}
+      ],
+      "avg_call_time_evo": [
+        {"date": "21-08-24", "time": 240},
+        {"date": "22-08-24", "time": 245},
+        {"date": "23-08-24", "time": 235},
+        {"date": "24-08-24", "time": 250},
+        {"date": "25-08-24", "time": 240}
+      ]
     },
     {
-        "ops_name": "essis",
-        "surnames": "roland",
-        "post": "Manager",
-        "score": 92,
-        "success_evo": [
-            {"date": "21-08-24", "success_call": 20},
-            {"date": "22-08-24", "success_call": 22},
-            {"date": "23-08-24", "success_call": 18},
-            {"date": "24-08-24", "success_call": 25},
-            {"date": "25-08-24", "success_call": 28}
-        ],
-        "avg_call_time_evo": [
-            {"date": "21-08-24", "time": 170},
-            {"date": "22-08-24", "time": 165},
-            {"date": "23-08-24", "time": 175},
-            {"date": "24-08-24", "time": 170},
-            {"date": "25-08-24", "time": 175}
-        ],
-        "campaigns": [
-            {
-                "id": 5,
-                "name": "Campaign 5",
-                "designation": "Hearing Aid Follow-up",
-                "average_duration_per_call": "100",
-                "objective": 150,
-                "evolution": 75,
-                "total_calls": 200,
-                "success_calls": 100,
-                "start_date": "2024-05-01",
-                "end_date": "2024-08-01",
-                "status": "upcoming"
-            }
-        ]
+      "ops_name": "essis",
+      "surnames": "roland",
+      "post": "Manager",
+      "temps_moyen_par_appel": "2:50",
+      "score": 92,
+      "calls_handled": 200,
+      "success_evo": [
+        {"date": "21-08-24", "success_call": 20},
+        {"date": "22-08-24", "success_call": 22},
+        {"date": "23-08-24", "success_call": 18},
+        {"date": "24-08-24", "success_call": 25},
+        {"date": "25-08-24", "success_call": 28}
+      ],
+      "avg_call_time_evo": [
+        {"date": "21-08-24", "time": 170},
+        {"date": "22-08-24", "time": 165},
+        {"date": "23-08-24", "time": 175},
+        {"date": "24-08-24", "time": 170},
+        {"date": "25-08-24", "time": 175}
+      ]
     }
-]
+  ]
+  
