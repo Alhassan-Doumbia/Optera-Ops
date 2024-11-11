@@ -5,7 +5,7 @@ import './index.css'
 import Playground from './playground.jsx'
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    {/* <App /> */}
-    <Playground></Playground>
+    <App />
+    {/* <Playground></Playground> */}
   </StrictMode>
 )

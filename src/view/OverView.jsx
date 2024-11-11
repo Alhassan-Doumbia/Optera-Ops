@@ -1,6 +1,8 @@
 import React, { useRef, useState, useEffect } from "react";
 import { Line } from "react-chartjs-2";
 import { updateCurveChart } from "../Hooks/handleCurveCharts";
+import ProfileComp from "../Components/LeaderBoard/ProfileComponent";
+import LeaderBoard from "../Components/LeaderBoard/LeaderBoard";
 
 function OverView() {
     const curveChartRef = useRef(null);
@@ -40,6 +42,8 @@ function OverView() {
 
                 <div id="leaderboard">
                   <h2 className="font-semibold text-[20px]">Classement</h2>
+                  {/* <ProfileComp></ProfileComp> */}
+                  <LeaderBoard></LeaderBoard>
 
                 </div>
 
